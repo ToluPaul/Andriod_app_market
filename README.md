@@ -2,6 +2,7 @@
 A project carried out at datacamp in regards android applications
 
 It is nice to have an application on Google play but you ever wondered how Android applications perform and which applications are of more interest to people?
+Also have you ever wondered with application have the highest share of apps in the market, which category is dominating the market and which category has the fewest number of apps
 
 Let us download some analysis that would help us give a rating what category of applications are the most sort after.
 
