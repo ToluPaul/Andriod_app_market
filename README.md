@@ -10,4 +10,6 @@ This repository contains a jupyter notebook python file that illustrates a step 
 
 Without using a trash application, the data was cleaned from unwanted iterations that could make our analysis impared. 
 
-The analysis involved figuring out the distribution of apps rating and how users reacted to the size and price of an application
+The analysis involved figuring out the distribution of apps rating and how users reacted to the size and price of an application.
+
+Some categories of applications seemed to perform pretty well with users. These categories were selected to and compared alongside.
