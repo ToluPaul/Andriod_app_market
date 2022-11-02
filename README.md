@@ -13,3 +13,5 @@ Without using a trash application, the data was cleaned from unwanted iterations
 The analysis involved figuring out the distribution of apps rating and how users reacted to the size and price of an application.
 
 Some categories of applications seemed to perform pretty well with users. These categories were selected to and compared alongside.
+
+The python notebook contains visualization and plots that displays how these findings correlate and portray what the data is saying
