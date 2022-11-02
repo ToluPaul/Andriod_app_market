@@ -7,3 +7,5 @@ Also have you ever wondered with application have the highest share of apps in t
 Let us download some analysis that would help us give a rating what category of applications are the most sort after.
 
 This repository contains a jupyter notebook python file that illustrates a step by step findings as to what category of applications are the most downloaded. The data derived was from Google Play where numerous of applications are made public for users interested in such products
+
+Without using a trash application, the data was cleaned from unwanted iterations that could make our analysis impared
