@@ -5,4 +5,4 @@ It is nice to have an application on Google play but you ever wondered how Andro
 
 Let us download some analysis that would help us give a rating what category of applications are the most sort after.
 
-This repository contains a jupyter notebook python file that illustrates a step by step findings as to what category of applications are the most downloaded. 
+This repository contains a jupyter notebook python file that illustrates a step by step findings as to what category of applications are the most downloaded. The data derived was from Google Play where numerous of applications are made public for users interested in such products
