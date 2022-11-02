@@ -15,3 +15,5 @@ The analysis involved figuring out the distribution of apps rating and how users
 Some categories of applications seemed to perform pretty well with users. These categories were selected to and compared alongside.
 
 The python notebook contains visualization and plots that displays how these findings correlate and portray what the data is saying
+
+Customers are always right. You do not want to play no games with the user ratings. This was also taken into consideration and the user review ratings were not left out.
